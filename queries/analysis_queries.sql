@@ -1,4 +1,3 @@
-
 -- Query 1: Count active users per subscription plan
 -- Business Goal: Identify which plan has the highest number of currently active users
 
